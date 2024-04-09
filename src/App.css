@@ -1,38 +1,179 @@
+* {
+  margin: 0;
+  font-family: "IBM Plex Mono", monospace;
+}
+
+body {
+  background-color: #efefef;
+  color: #ffffff;
+}
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+h1 {
+  font-size: 18px;
+  font-weight: 500;
+}
+
+h2 {
+  font-size: 15px;
+  font-weight: 400;
+}
+
+h3 {
+  font-size: 22px;
+  font-weight: 300;
+  line-height: 0.85;
+}
+
+h4 {
+  font-size: 16px;
+  line-height: 1.5em;
+}
+
+p {
+  margin: 2px 0;
+}
+
 .App {
+  width: 390px;
+  display: grid;
+  margin: auto;
+  background-color: #191E24;
+}
+
+.CalendarHeader {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 1em;
+  justify-content: space-between;
+  padding: 0 16px;
+  margin-bottom: 24px;
+
+  background-color: #14171C;
+  height: 60px;
+}
+
+.calendarLinks {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 1em;
+}
+
+.calendarLogo, .calendarLinks div {
+  background-color: #00E054;
+  border-radius: 50%;
+  width: 18px;
+  height: 18px;
+}
+
+.CalendarProfile {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0 16px;
+
+  background-color: #1E252D;
+  color: #ffffff;
+  height: 50px;
+}
+
+.profileImage {
+  background-color: #d9d9d9;
+  border-radius: 50%;
+  width: 24px;
+  height: 24px;
+}
+
+.CalendarList {
+  /* background-color: violet; */
+  /* margin: 0 16px; */
+}
+
+.CalendarMonth {
+  background-color: #445565;
+  color: #00E054;
+  margin-bottom: 24px;
+  padding: 0 16px;
+  text-transform: uppercase;
+  font-size: 12px;
+  height: 34px;
+  display: flex;
+  align-items: center;
+}
+
+.CalendarDay {
+  padding: 0 16px;
+  margin-bottom: 24px;
+}
+
+.DateWrap {
+  display: grid;
+  grid-template-columns: 40px 1fr;
+  /* background-color: red; */
+  border-bottom: 1px solid #445565;
+  margin-bottom: 24px;
+}
+
+.film-poster {
+  background-color: #445565;
+  border-radius: 4px;
+  width: 50px;
+  height: 73.33px;
+  overflow: hidden;
+}
+
+.film-poster img {
+  width: 100%;
+  height: auto;
+}
+
+.film {
+  display: grid;
+  grid-template-columns: 50px 1fr;
+  gap: 15px;
+  align-items: center;
+
+  padding: 0 16px;
+  margin-bottom: 24px;
+}
+
+.date-border {
+  box-sizing: border-box;
+  border: 1px solid #445565;
+  border-radius: 4px;
+  display: grid;
+  align-content: center;
+  color: #445565;
+  height: 44px;
+
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.date-border span {
+  font-size: 10px;
+  font-weight: 500;
+  text-transform: uppercase;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.film_title-year span {
+  color:#5b7186;
+  font-size: 14px;
+  line-height: 1.25;
+  font-weight: 500;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.film_series-format {
+  font-size: 12px;
+  line-height: 1.5em;
+  margin: 6px 0;
 }
