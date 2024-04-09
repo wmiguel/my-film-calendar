@@ -8,7 +8,7 @@ const MoviePoster = ({ posterID }) => {
 
   useEffect(() => {
     const getPosterRequest = async (posterID) => {
-      const url = `http://www.omdbapi.com/?apikey=206bdf85&i=${posterID}`;
+      const url = `https://www.omdbapi.com/?apikey=206bdf85&i=${posterID}`;
       const response = await fetch(url);
       const responseJson = await response.json();
       setposterURL(responseJson.Poster);
