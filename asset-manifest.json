@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/my-film-calendar/static/css/main.8ffe1453.css",
-    "main.js": "/my-film-calendar/static/js/main.d6df2bc3.js",
+    "main.js": "/my-film-calendar/static/js/main.2f1c4718.js",
     "static/media/film-calendar.csv": "/my-film-calendar/static/media/film-calendar.becbef670fb42701ad35.csv",
     "index.html": "/my-film-calendar/index.html",
     "main.8ffe1453.css.map": "/my-film-calendar/static/css/main.8ffe1453.css.map",
-    "main.d6df2bc3.js.map": "/my-film-calendar/static/js/main.d6df2bc3.js.map"
+    "main.2f1c4718.js.map": "/my-film-calendar/static/js/main.2f1c4718.js.map"
   },
   "entrypoints": [
     "static/css/main.8ffe1453.css",
-    "static/js/main.d6df2bc3.js"
+    "static/js/main.2f1c4718.js"
   ]
 }
