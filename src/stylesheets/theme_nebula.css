@@ -1,0 +1,53 @@
+:root {
+  --nebula-01:    #D8E3DF;
+  --nebula-02:    #EEF2F1;
+  --persian-01:   #9DA6F2;
+  --persian-02:   #6270EA;
+  --persian-03:   #293BE2;
+  --persian-04:   #090E40;
+}
+
+body {
+  background-color: var(--nebula-02);
+  color: var(--persian-03);
+}
+
+.App {
+  background-color: var(--nebula-01);
+}
+
+.CalendarHeader {
+  color: var(--nebula-02);
+  background-color: var(--persian-04);
+}
+
+.calendarLogo, .calendarLinks div {
+  background-color: var(--persian-03);
+}
+
+.CalendarProfile {
+  background-color: var(--nebula-02);
+  color: var(--nebula-02);
+}
+
+.CalendarMonth {
+  background-color: var(--persian-03);
+  color: #00E054;
+}
+
+.DateWrap {
+  border-bottom: 1px solid var(--persian-03);
+}
+
+.film-poster {
+  background-color: var(--persian-03);
+}
+
+.date-border {
+  border: 1px solid var(--persian-03);
+  color: var(--persian-03);
+}
+
+.film_title-year span {
+  color:var(--persian-03);
+}
