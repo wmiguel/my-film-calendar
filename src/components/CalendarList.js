@@ -37,9 +37,8 @@ function CalendarList() {
         <div className="CalendarDay">
           {data.map((row, index) => (
             <div className="DateWrap" key={index}>
-              
               <MovieDate movieDate={row.Date} />
-              
+
               <div className="FilmList">
                 <div className="film">
                   <MoviePoster posterID={row.IMDbID} />
@@ -48,10 +47,10 @@ function CalendarList() {
                     movieYear={row.Year}
                     movieSeries={row.Series}
                     movieFormat={row.Format}
+                    movieDuration={row.Duration}
                   />
                 </div>
               </div>
-
             </div>
           ))}
         </div>
