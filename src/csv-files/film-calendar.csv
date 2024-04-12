@@ -1,39 +1,65 @@
 Date,Title,Year,Director,Duration,Format,Series,IMDbID
-4/11/2024,Barry Lyndon,1975,Stanley Kubrick,3h 5m,Blu-Ray,The Films of Stanley Kubrick,tt0072684
-4/11/2024,Monkeybone,2001,Henry Selick,1h 33m,– – –,The Films of Henry Selick,tt0166276
-4/12/2024,Coraline,2009,Henry Selick,1h 40m,Max,The Films of Henry Selick,tt0327597
-4/12/2024,Wendell & Wild,2022,Henry Selick,1h 47m,Netflix,The Films of Henry Selick,tt5181830
-4/13/24,The Killer,2023,David Fincher,1h 58m,Netflix,The Films of David Fincher,tt1136617
-4/13/24,Shallow Grave,1994,Danny Boyle,1h 33m,– – –,The Films of Danny Boyle,tt0111149
-4/14/24,Trainspotting,1996,Danny Boyle,1h 34m,– – –,The Films of Danny Boyle,tt0117951
-4/14/24,A Life Less Ordinary,1997,Danny Boyle,1h 43m,– – –,The Films of Danny Boyle,tt0119535
-4/15/24,The Beach,2000,Danny Boyle,1h 59m,– – –,The Films of Danny Boyle,tt0163978
-4/15/24,28 Days Later,2002,Danny Boyle,1h 53m,Blu-Ray,The Films of Danny Boyle,tt0289043
-4/16/24,Millions,2004,Danny Boyle,1h 38m,– – –,The Films of Danny Boyle,tt0366777
-4/16/24,Slumdog Millionaire,2008,Danny Boyle,2h 0m,Hulu,The Films of Danny Boyle,tt1010048
-4/17/24,Trance,2013,Danny Boyle,1h 41m,– – –,The Films of Danny Boyle,tt1924429
-4/17/24,T2 Trainspotting,2017,Danny Boyle,1h 57m,– – –,The Films of Danny Boyle,tt2763304
-4/18/24,The Navigator,1924,Buster Keaton,1h 5m,Kanopy / Tubi,The Films of Buster Keaton,tt0015163
-4/18/24,Seven Chances,1925,Buster Keaton,0h 56m,Kanopy,The Films of Buster Keaton,tt0016332
-4/19/24,Go West,1925,Buster Keaton,1h 9m,Kanopy / Tubi,The Films of Buster Keaton,tt0015863
-4/19/24,Battling Butler,1926,Buster Keaton,1h 17m,Kanopy / Tubi,The Films of Buster Keaton,tt0016630
-4/20/24,"Steamboat Bill, Jr",1928,Buster Keaton,1h 10m,Kanopy / Tubi,The Films of Buster Keaton,tt0019421
-4/20/24,The Cameraman,1928,Buster Keaton,1h 14m,Tubi,The Films of Buster Keaton,tt0018742
-4/21/24,Spite Marriage,1929,Buster Keaton,1h 16m,– – –,The Films of Buster Keaton,tt0020442
-4/21/24,The Moon Is... the Sun's Dream,1992,Park Chan-wook,1h 43m,– – –,The Films of Park Chan-wook,tt0471268
-4/22/24,Trio,1997,Park Chan-wook,1h 42m,– – –,The Films of Park Chan-wook,tt0471369
-4/22/24,Joint Security Area,2000,Park Chan-wook,1h 48m,Tubi,The Films of Park Chan-wook,tt0260991
-4/23/24,"I'm a Cyborg, But That's OK",2006,Park Chan-wook,1h 45m,– – –,The Films of Park Chan-wook,tt0497137
-4/23/24,Thirst,2009,Park Chan-wook,2h 14m,– – –,The Films of Park Chan-wook,tt0762073
-4/24/24,Stoker,2013,Park Chan-wook,1h 39m,– – –,The Films of Park Chan-wook,tt1682180
-4/24/24,Nomads,1986,John McTiernan,1h 29m,,The Films of John McTiernan,tt0091647
-4/25/24,Predator,1987,John McTiernan,1h 47m,,The Films of John McTiernan,tt0093773
-4/25/24,Die Hard,1988,John McTiernan,2h 12m,,The Films of John McTiernan,tt0095016
-4/26/24,The Hunt for Red October,1990,John McTiernan,2h 15m,,The Films of John McTiernan,tt0099810
-4/26/24,Medicine Man,1992,John McTiernan,1h 46m,,The Films of John McTiernan,tt0104839
-4/27/24,Last Action Hero,1993,John McTiernan,2h 11m,,The Films of John McTiernan,tt0107362
-4/27/24,Die Hard With a Vengeance,1995,John McTiernan,2h 8m,,The Films of John McTiernan,tt0112864
-4/28/24,The Thomas Crown Affair,1999,John McTiernan,1h 53m,,The Films of John McTiernan,tt0155267
-4/28/24,The 13th Warrior,1999,John McTiernan,1h 42m,,The Films of John McTiernan,tt0120657
-4/29/24,Rollerball,2002,John McTiernan,1h 38m,,The Films of John McTiernan,tt0246894
-4/29/24,Basic,2003,John McTiernan,1h 38m,,The Films of John McTiernan,tt0264395
+4/12/2024,Love Lies Bleeding,2024,Rose Glass,1hr 44m,AMC Burbank,🍿 At the Movies,tt19637052
+,,,,,,,
+4/13/24,I Like Movies,2022,Chandler Levack,1h 39m,Laemmle Glendale,🍿 At the Movies,tt14913282
+,,,,,,,
+4/14/24,Barry Lyndon,1975,Stanley Kubrick,3h 5m,Blu-Ray,The Films of Stanley Kubrick,tt0072684
+4/14/24,Monkeybone,2001,Henry Selick,1h 33m,– – –,The Films of Henry Selick,tt0166276
+,,,,,,,
+4/15/24,The Raid,2011,Gareth Evans,1h 41m,New Beverly Cinema,🍿 At the Movies,tt1899353
+4/15/24,The Raid 2,2014,Gareth Evans,2h 30m,New Beverly Cinema,🍿 At the Movies,tt2265171
+,,,,,,,
+4/16/24,Coraline,2009,Henry Selick,1h 40m,Max,The Films of Henry Selick,tt0327597
+4/16/24,Wendell & Wild,2022,Henry Selick,1h 47m,Netflix,The Films of Henry Selick,tt5181830
+,,,,,,,
+4/17/24,The Killer,2023,David Fincher,1h 58m,Netflix,The Films of David Fincher,tt1136617
+4/17/24,Shallow Grave,1994,Danny Boyle,1h 33m,– – –,The Films of Danny Boyle,tt0111149
+,,,,,,,
+4/18/24,Trainspotting,1996,Danny Boyle,1h 34m,– – –,The Films of Danny Boyle,tt0117951
+4/18/24,A Life Less Ordinary,1997,Danny Boyle,1h 43m,– – –,The Films of Danny Boyle,tt0119535
+,,,,,,,
+4/19/24,The Beach,2000,Danny Boyle,1h 59m,– – –,The Films of Danny Boyle,tt0163978
+4/19/24,28 Days Later,2002,Danny Boyle,1h 53m,Blu-Ray,The Films of Danny Boyle,tt0289043
+,,,,,,,
+4/20/24,Millions,2004,Danny Boyle,1h 38m,– – –,The Films of Danny Boyle,tt0366777
+4/20/24,Slumdog Millionaire,2008,Danny Boyle,2h 0m,Hulu,The Films of Danny Boyle,tt1010048
+,,,,,,,
+4/21/24,Trance,2013,Danny Boyle,1h 41m,– – –,The Films of Danny Boyle,tt1924429
+4/21/24,T2 Trainspotting,2017,Danny Boyle,1h 57m,– – –,The Films of Danny Boyle,tt2763304
+,,,,,,,
+4/22/24,The Navigator,1924,Buster Keaton,1h 5m,Kanopy / Tubi,The Films of Buster Keaton,tt0015163
+4/22/24,Seven Chances,1925,Buster Keaton,0h 56m,Kanopy,The Films of Buster Keaton,tt0016332
+,,,,,,,
+4/23/24,Go West,1925,Buster Keaton,1h 9m,Kanopy / Tubi,The Films of Buster Keaton,tt0015863
+4/23/24,Battling Butler,1926,Buster Keaton,1h 17m,Kanopy / Tubi,The Films of Buster Keaton,tt0016630
+,,,,,,,
+4/24/24,"Steamboat Bill, Jr",1928,Buster Keaton,1h 10m,Kanopy / Tubi,The Films of Buster Keaton,tt0019421
+4/24/24,The Cameraman,1928,Buster Keaton,1h 14m,Tubi,The Films of Buster Keaton,tt0018742
+,,,,,,,
+4/25/24,Spite Marriage,1929,Buster Keaton,1h 16m,– – –,The Films of Buster Keaton,tt0020442
+4/25/24,The Moon Is... the Sun's Dream,1992,Park Chan-wook,1h 43m,– – –,The Films of Park Chan-wook,tt0471268
+,,,,,,,
+4/26/24,Trio,1997,Park Chan-wook,1h 42m,– – –,The Films of Park Chan-wook,tt0471369
+4/26/24,Joint Security Area,2000,Park Chan-wook,1h 48m,Tubi,The Films of Park Chan-wook,tt0260991
+,,,,,,,
+4/27/24,"I'm a Cyborg, But That's OK",2006,Park Chan-wook,1h 45m,– – –,The Films of Park Chan-wook,tt0497137
+4/27/24,Thirst,2009,Park Chan-wook,2h 14m,– – –,The Films of Park Chan-wook,tt0762073
+,,,,,,,
+4/28/24,Stoker,2013,Park Chan-wook,1h 39m,– – –,The Films of Park Chan-wook,tt1682180
+4/28/24,Nomads,1986,John McTiernan,1h 29m,,The Films of John McTiernan,tt0091647
+,,,,,,,
+4/29/24,Predator,1987,John McTiernan,1h 47m,,The Films of John McTiernan,tt0093773
+4/29/24,Die Hard,1988,John McTiernan,2h 12m,,The Films of John McTiernan,tt0095016
+,,,,,,,
+4/30/24,The Hunt for Red October,1990,John McTiernan,2h 15m,,The Films of John McTiernan,tt0099810
+4/30/24,Medicine Man,1992,John McTiernan,1h 46m,,The Films of John McTiernan,tt0104839
+,,,,,,,
+4/31/24,Last Action Hero,1993,John McTiernan,2h 11m,,The Films of John McTiernan,tt0107362
+4/31/24,Die Hard With a Vengeance,1995,John McTiernan,2h 8m,,The Films of John McTiernan,tt0112864
+,,,,,,,
+5/1/2024,The Thomas Crown Affair,1999,John McTiernan,1h 53m,,The Films of John McTiernan,tt0155267
+5/1/2024,The 13th Warrior,1999,John McTiernan,1h 42m,,The Films of John McTiernan,tt0120657
+,,,,,,,
+5/2/2024,Rollerball,2002,John McTiernan,1h 38m,,The Films of John McTiernan,tt0246894
+5/2/2024,Basic,2003,John McTiernan,1h 38m,,The Films of John McTiernan,tt0264395
+,,,,,,,
